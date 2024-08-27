@@ -13,11 +13,11 @@ Apaixonada por aprender, estudante de análise de dados em transição de carrei
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeniseSchuartz&repo=Agro-Projeto-de-parceria-EBAC.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeniseSchuartz&repo=Exploratory-Data-Analysis-on-Credit.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeniseSchuartz&repo=COVID-Projeto-de-parceria-EBAC.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeniseSchuartz&repo=Preco_gasolina_SP.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeniseSchuartz&repo=Previsao_de_Vendas_Walmart_.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeniseSchuartz&repo=Agro-Projeto-de-parceria-EBAC&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeniseSchuartz&repo=Exploratory-Data-Analysis-on-Credit&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeniseSchuartz&repo=COVID-Projeto-de-parceria-EBAC&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeniseSchuartz&repo=Preco_gasolina_SP&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeniseSchuartz&repo=Previsao_de_Vendas_Walmart_&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
  ### Linguagens utilizadas
 
