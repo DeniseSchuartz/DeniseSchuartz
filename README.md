@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 ### Projetos
 
-![Snake animation](https://github.com/DeniseSchuartz/DeniseSchuartz/blob/output/github-contribution-grid-snake.svg)
+
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeniseSchuartz&repo=Agro-Projeto-de-parceria-EBAC&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
