@@ -1,10 +1,21 @@
           
 ### Denise Schuartz ☕                                                                                             ![image](https://github.com/user-attachments/assets/6c8129ac-ed3f-4156-a5cc-3ecf4eebb1d9)
 ___________________________________________________________________________________________________________________________
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/denise-schuartz/) 
+          
 
-Apaixonada por aprender, estudante de análise de dados em transição de carreira. Busco unir meu conhecimento no setor financeiro com a aplicação prática de dados.
+### Olá!!
+________________________________________________________________________________________________________________________________
+###Sobre Denise
+✨ Apaixonada por aprender e sempre em busca de novos desafios.
 
+💼 Por 5 anos, atuei no mercado financeiro, onde desenvolvi habilidades em gestão e estratégias. Durante esse período, ao estudar sobre Business Intelligence voltado ao setor financeiro, descobri uma nova paixão: a análise de dados.
 
+📊 Agora, estou no meio de uma transição de carreira, mergulhando no mundo dos dados e buscando unir minha experiência no mercado financeiro com esse novo conhecimento. Sei que o caminho é longo e o aprendizado nunca termina, mas acredito que essa combinação de habilidades tem muito a agregar.
+
+📚 Amo café, sou viciada em exercícios físicos, adoro ler e estou sempre em busca de aprender algo novo. Esse espírito curioso e determinado é o que define meu momento atual e a motivação para continuar evoluindo!
+
+<div class="tenor-gif-embed" data-postid="21307589" data-share-method="host" data-aspect-ratio="1.37931" data-width="100%"><a href="https://tenor.com/view/curiouspiyuesh-piyueshmodi-visual-thinking-efficiency-work-gif-21307589">Curiouspiyuesh Piyueshmodi Sticker</a>from <a href="https://tenor.com/search/curiouspiyuesh-stickers">Curiouspiyuesh Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 ### Conhecimentos adquiridos 🔭
@@ -28,7 +39,6 @@ Apaixonada por aprender, estudante de análise de dados em transição de carrei
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/denise-schuartz/) 
-          
+
           
           
