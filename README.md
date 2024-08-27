@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 ### Olá!!
 ________________________________________________________________________________________________________________________________
-###Sobre Denise
+### Sobre Denise
 ✨ Apaixonada por aprender e sempre em busca de novos desafios.
 
 💼 Por 5 anos, atuei no mercado financeiro, onde desenvolvi habilidades em gestão e estratégias. Durante esse período, ao estudar sobre Business Intelligence voltado ao setor financeiro, descobri uma nova paixão: a análise de dados.
@@ -15,7 +15,8 @@ ________________________________________________________________________________
 
 📚 Amo café, sou viciada em exercícios físicos, adoro ler e estou sempre em busca de aprender algo novo. Esse espírito curioso e determinado é o que define meu momento atual e a motivação para continuar evoluindo!
 
-<div class="tenor-gif-embed" data-postid="21307589" data-share-method="host" data-aspect-ratio="1.37931" data-width="100%"><a href="https://tenor.com/view/curiouspiyuesh-piyueshmodi-visual-thinking-efficiency-work-gif-21307589">Curiouspiyuesh Piyueshmodi Sticker</a>from <a href="https://tenor.com/search/curiouspiyuesh-stickers">Curiouspiyuesh Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Curiouspiyuesh Piyueshmodi](https://media.tenor.com/9NLB0tPsgyIAAAAi/curiouspiyuesh-piyueshmodi.gif)
+
 
 
 ### Conhecimentos adquiridos 🔭
