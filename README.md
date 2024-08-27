@@ -1,7 +1,5 @@
           
-### Olá 👋
-
-###### Sobre a Denise ☕ ![image](https://github.com/user-attachments/assets/6c8129ac-ed3f-4156-a5cc-3ecf4eebb1d9)
+### Denise Schuartz ☕                                            ![image](https://github.com/user-attachments/assets/6c8129ac-ed3f-4156-a5cc-3ecf4eebb1d9)
 ___________________________________________________________________________________________________________________________
 
 Apaixonada por aprender, estudante de análise de dados em transição de carreira. Busco unir meu conhecimento no setor financeiro com a aplicação prática de dados.
