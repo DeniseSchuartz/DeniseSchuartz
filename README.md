@@ -30,7 +30,12 @@ ________________________________________________________________________________
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeniseSchuartz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
 ### Projetos
+
+![Snake animation](https://github.com/DeniseSchuartz/DeniseSchuartz/blob/output/github-contribution-grid-snake.svg)
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeniseSchuartz&repo=Agro-Projeto-de-parceria-EBAC&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeniseSchuartz&repo=Exploratory-Data-Analysis-on-Credit&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -41,8 +46,6 @@ ________________________________________________________________________________
  ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeniseSchuartz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Contatos
 
 
           
