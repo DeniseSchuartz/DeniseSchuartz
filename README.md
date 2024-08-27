@@ -15,7 +15,11 @@ Apaixonada por aprender, estudante de análise de dados em transição de carrei
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeniseSchuartz&repo=Agro-Projeto-de-parceria-EBAC.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-                   
+ ### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeniseSchuartz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+                  
           
           
           
