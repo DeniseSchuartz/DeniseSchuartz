@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 ### Olá!!
 ________________________________________________________________________________________________________________________________
-### Sobre Denise
+###### Sobre Denise
 ✨ Apaixonada por aprender e sempre em busca de novos desafios.
 
 💼 Por 5 anos, atuei no mercado financeiro, onde desenvolvi habilidades em gestão e estratégias. Durante esse período, ao estudar sobre Business Intelligence voltado ao setor financeiro, descobri uma nova paixão: a análise de dados.
